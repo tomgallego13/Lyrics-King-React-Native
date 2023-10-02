@@ -116,7 +116,7 @@ Design files for the UI can be found in `_design_assets/adobeXD` in the project 
 
 - `shareHelper.js` - Native device [share method](https://docs.expo.io/versions/latest/react-native/share)
 
-## Getting Started
+## Getting Started (Update This)
 
 1. Install the latest Node
 2. Install [Expo](https://expo.io/) - `npm install expo-cli --global`
